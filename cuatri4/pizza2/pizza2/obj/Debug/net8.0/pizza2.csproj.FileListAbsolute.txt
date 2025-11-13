@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\bin\Debug\net8.0\pizza2.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\bin\Debug\net8.0\pizza2.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\bin\Debug\net8.0\pizza2.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\bin\Debug\net8.0\pizza2.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\bin\Debug\net8.0\pizza2.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\refint\pizza2.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\pizza2.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cuatri4\pizza2\pizza2\obj\Debug\net8.0\ref\pizza2.dll

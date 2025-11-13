@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div>
+    <table>
+        <tbody>
+            <tr>
+                <td>Name:</td>
+                <td id="name"></td>
+            </tr>
+            <tr>
+                <td>Age:</td>
+                <td id="age"></td>
+            </tr>
+            <tr>
+                <td>Height:</td>
+                <td id="height"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    async function Init(){
+        let response = await fetch("/api/Perso", {method: "POST"});
+
+        if(response.ok)
+        {
+            let result = await response.json();
+            document.getElementById("name").innerHTML = result.name;
+            document.getElementById("age").innerHTML = result.age;
+            document.getElementById("height").innerHTML = result.height;
+        }
+        else {
+            alert("Mah engines!!");
+        }
+    }
+
+    Init();
+</script>

@@ -1,0 +1,15 @@
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\bin\Debug\net8.0\Swithc_case.exe
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\bin\Debug\net8.0\Swithc_case.deps.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\bin\Debug\net8.0\Swithc_case.runtimeconfig.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\bin\Debug\net8.0\Swithc_case.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\bin\Debug\net8.0\Swithc_case.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.AssemblyInfoInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.AssemblyInfo.cs
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.csproj.CoreCompileInputs.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.sourcelink.json
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\refint\Swithc_case.dll
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.pdb
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\Swithc_case.genruntimeconfig.cache
+C:\Users\alanr\OneDrive\Desktop\todoPython\cursosC#\Swithc_case\Swithc_case\obj\Debug\net8.0\ref\Swithc_case.dll

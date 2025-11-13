@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7A6298F-592D-4060-A520-48BC30D84C5B}|Cailificaciones\\Cailificaciones.csproj|c:\\users\\alanr\\onedrive\\desktop\\todopython\\cuatri4\\cailificaciones\\cailificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7A6298F-592D-4060-A520-48BC30D84C5B}|Cailificaciones\\Cailificaciones.csproj|solutionrelative:cailificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A6298F-592D-4060-A520-48BC30D84C5B}|Cailificaciones\\Cailificaciones.csproj|c:\\users\\alanr\\onedrive\\desktop\\todopython\\cuatri4\\cailificaciones\\cailificaciones\\classstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A6298F-592D-4060-A520-48BC30D84C5B}|Cailificaciones\\Cailificaciones.csproj|solutionrelative:cailificaciones\\classstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassStudents.cs",
+              "DocumentMoniker": "C:\\Users\\alanr\\OneDrive\\Desktop\\todoPython\\cuatri4\\Cailificaciones\\Cailificaciones\\ClassStudents.cs",
+              "RelativeDocumentMoniker": "Cailificaciones\\ClassStudents.cs",
+              "ToolTip": "C:\\Users\\alanr\\OneDrive\\Desktop\\todoPython\\cuatri4\\Cailificaciones\\Cailificaciones\\ClassStudents.cs",
+              "RelativeToolTip": "Cailificaciones\\ClassStudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T19:14:18.573Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Cailificaciones\\Program.cs",
               "ToolTip": "C:\\Users\\alanr\\OneDrive\\Desktop\\todoPython\\cuatri4\\Cailificaciones\\Cailificaciones\\Program.cs",
               "RelativeToolTip": "Cailificaciones\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T18:08:18.464Z",
               "EditorCaption": ""

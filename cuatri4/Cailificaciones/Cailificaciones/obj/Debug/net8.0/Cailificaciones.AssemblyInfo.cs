@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cailificaciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c97399880deb815ed39c33a0f1db9748eeff3ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b45c43d7fa5d1cf47ad81287acc1bfd879f06dbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cailificaciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cailificaciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

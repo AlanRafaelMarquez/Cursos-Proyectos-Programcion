@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            
             /*
              1)Validar sea nombre con apellido, usar funcion Contains
              2)Validar sea una calificacion validar mayor a 0, menor a 10
@@ -24,8 +25,8 @@
             //La calificacion del alumno lo capturamos en un arreglo
             double[] grades = new double[alumnCount];
 
-          
 
+            ClassStudents[] students = new ClassStudents[alumnCount];
             //Iniciamos un contador
             int counter = 0;
             //Iniciamos un while que el contador a imprimir hasta el numero de alumnos que pedimos
