@@ -1,0 +1,142 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #f8c471, #d35400);
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  background: #fff;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+.logo {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 120px;
+}
+
+h1 {
+  text-align: center;
+  color: #d35400;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+input[type="range"] {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.escala {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button, .boton {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 20px;
+  background: #d35400;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover, .boton:hover {
+  background: #e67e22;
+}
+
+.gracias {
+  text-align: center;
+}
+
+/* Responsivo para celular */
+@media (max-width: 600px) {
+  .contenedor {
+    margin: 10px;
+    padding: 20px;
+  }
+  h1 {
+    font-size: 22px;
+  }
+}
+.opciones {
+  display: flex;
+  gap: 20px;
+  margin-top: 8px;
+  font-size: 16px;
+}
+
+.opciones label {
+  background: #f8c471;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.opciones label:hover {
+  background: #e67e22;
+  color: #fff;
+}
+
+input[type="range"] {
+  width: 100%;
+  margin-top: 5px;
+  accent-color: #d35400; /* color de la barra */
+}
+
+.escala {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.escala span:first-child {
+  color: #c0392b; /* rojo = peor */
+  font-weight: bold;
+}
+
+.escala span:last-child {
+  color: #27ae60; /* verde = mejor */
+  font-weight: bold;
+}
+
+.niveles {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0 15px 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.nivel1 { color: #c0392b; }   /* rojo = malo */
+.nivel2 { color: #e67e22; }   /* naranja = regular */
+.nivel3 { color: #f1c40f; }   /* amarillo = bueno */
+.nivel4 { color: #27ae60; }   /* verde = muy bueno */
+.nivel5 { color: #2ecc71; }   /* verde brillante = excelente */
