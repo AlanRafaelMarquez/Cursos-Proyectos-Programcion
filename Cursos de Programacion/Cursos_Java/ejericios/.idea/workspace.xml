@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31f86122-9b49-41ee-a3d1-d949ee7442f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cursos/Entrada de datosJOption/src/Entrada_de_datos/Clase_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cursos/Entrada de datosJOption/src/Entrada_de_datos/Entrada_De_Datos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cursos/Entrada de datosJOption/src/Entrada_de_datos/Operadores_Aritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cursos/Entrada de datosJOption/src/Entrada_de_datos/Operadores_De_imcremento_decremento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cursos/Entrada de datosJOption/src/Entrada_de_datos/Operadores_aritmeticos_asignacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/CopilotIndices/17.14.1091.29919/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/CopilotIndices/17.14.1091.29919/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/CopilotIndices/17.14.1091.29919/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/CopilotIndices/17.14.1091.29919/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/FileContentIndex/55e2605c-3fc1-4f98-ab80-bf4ab8e40564.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/Cailificaciones/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/ProjectEvaluation/cailificaciones.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/ProjectEvaluation/cailificaciones.metadata.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/ProjectEvaluation/cailificaciones.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/ProjectEvaluation/cailificaciones.projects.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/ProjectEvaluation/cailificaciones.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/.vs/ProjectEvaluation/cailificaciones.strings.v9.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/Cailificaciones/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/Cailificaciones/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/Cailificaciones/obj/Debug/net8.0/Cailificaciones.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/Cailificaciones/obj/Debug/net8.0/Cailificaciones.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/Cailificaciones/obj/Debug/net8.0/Cailificaciones.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/Cailificaciones/Cailificaciones/obj/Debug/net8.0/Cailificaciones.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/FileContentIndex/1a3d4851-7df3-41ab-b919-da59778914bc.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/FileContentIndex/d3ca71d3-6460-4ab5-b2ad-d7dac37cac69.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/ejercicio1/.vs/ejercicio1/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/ejercicio1/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/ejercicio1/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/ejercicio1/ejercicio1/obj/Debug/net8.0/ejercicio1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/introduccion/introduccion/obj/Debug/net8.0/introduccion.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/introduccion/introduccion/obj/Debug/net8.0/introduccion.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cuatri4/introduccion/introduccion/obj/Debug/net8.0/introduccion.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cuatri4/introduccion/introduccion/obj/Debug/net8.0/introduccion.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Casting/.vs/Casting/FileContentIndex/24341275-3e84-475e-ab14-8a406d1555c9.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Casting/.vs/Casting/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Casting/.vs/Casting/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Casting/.vs/Casting/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Casting/.vs/Casting/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/CopilotIndices/17.14.1091.29919/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/CopilotIndices/17.14.1091.29919/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/CopilotIndices/17.14.1091.29919/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/CopilotIndices/17.14.1091.29919/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/FileContentIndex/96a4af04-f2b4-4db2-b09b-a19eaecb6423.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/FileContentIndex/ca35b577-55a5-45e9-9213-66d0f934240c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/.vs/Entrada_de_datos/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/Entrada_de_datos/obj/Debug/net8.0/Entrada_de_datos.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/Entrada_de_datos/obj/Debug/net8.0/Entrada_de_datos.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/Entrada_de_datos/obj/Debug/net8.0/Entrada_de_datos.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../cursosC#/Entrada_de_datos/Entrada_de_datos/obj/Debug/net8.0/Entrada_de_datos.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="33chKY0sszSBomzrPazWSnVfy5W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "actu-cursos",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alanr/OneDrive/Desktop/todoPython/Cursos_Java/ejericios"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f86122-9b49-41ee-a3d1-d949ee7442f0" name="Changes" comment="" />
+      <created>1759622205008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759622205008</updated>
+    </task>
+    <servers />
+  </component>
+</project>

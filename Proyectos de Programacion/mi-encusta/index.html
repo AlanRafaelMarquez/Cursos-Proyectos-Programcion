@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Encuesta Carnitas</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <div class="contenedor">
+    <img src="img/logo.png" alt="Logo Carnitas" class="logo">
+    <h1>🍴 Encuesta de Satisfacción</h1>
+    <p>Tu opinión nos ayuda a mejorar. Recuerda: <strong>1 = Muy malo, 5 = Excelente</strong></p>
+    
+    <form action="guardar.php" method="POST">
+      <label>1. ¿Cómo calificarías el sabor de la comida?</label>
+      <input type="range" name="sabor" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>2. ¿Cómo calificarías el servicio en general?</label>
+      <input type="range" name="servicio" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>3. ¿Cómo calificarías la higiene?</label>
+      <input type="range" name="sabor" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>4. ¿Cómo calificarías la atención de nuestros empleados?</label>
+      <input type="range" name="servicio" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>5. ¿Cómo calificarías el tiempo de espera?</label>
+      <input type="range" name="sabor" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>6. ¿Qué opinas de la relación calidad-precio?</label>
+      <input type="range" name="servicio" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>7. ¿Qué opinas del ambiente y comodidad del local?</label>
+      <input type="range" name="sabor" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>8. ¿Cómo calificarías el servicio a domicilio?</label>
+      <input type="range" name="servicio" min="1" max="5" step="1" required>
+      <div class="niveles">
+  <span class="nivel nivel1">1 = Malo</span>
+  <span class="nivel nivel2">2 = Regular</span>
+  <span class="nivel nivel3">3 = Bueno</span>
+  <span class="nivel nivel4">4 = Muy bueno</span>
+  <span class="nivel nivel5">5 = Excelente</span>
+</div>
+
+      <label>9. ¿Nos recomendarías a familiares o amigos?</label>
+<div class="opciones">
+  <label><input type="radio" name="recomendacion" value="si" required> Sí</label>
+  <label><input type="radio" name="recomendacion" value="no"> No</label>
+</div>
+
+
+      <label>10. ¿Cuál sería la mejora más importante para ti?</label>
+      <textarea name="mejora"></textarea>
+
+      <label>Comentario adicional:</label>
+      <textarea name="comentarios"></textarea>
+
+      <button type="submit">Enviar encuesta</button>
+    </form>
+  </div>
+</body>
+</html>
